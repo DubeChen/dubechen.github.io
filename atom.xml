@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://dubechen.github.io/"/>
   <updated>2017-08-06T12:46:47.656Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://dubechen.github.io/</id>
   
   <author>
     <name>Dube Chen</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>about</title>
-    <link href="http://yoursite.com/2017/08/06/about/"/>
-    <id>http://yoursite.com/2017/08/06/about/</id>
+    <link href="https://dubechen.github.io/2017/08/06/about/"/>
+    <id>https://dubechen.github.io/2017/08/06/about/</id>
     <published>2017-08-06T12:43:22.000Z</published>
     <updated>2017-08-06T12:46:47.656Z</updated>
     
@@ -32,17 +32,17 @@
     
     </summary>
     
-      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://dubechen.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://dubechen.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>开篇</title>
-    <link href="http://yoursite.com/2017/08/06/%E5%BC%80%E7%AF%87/"/>
-    <id>http://yoursite.com/2017/08/06/开篇/</id>
+    <link href="https://dubechen.github.io/2017/08/06/%E5%BC%80%E7%AF%87/"/>
+    <id>https://dubechen.github.io/2017/08/06/开篇/</id>
     <published>2017-08-06T10:49:45.000Z</published>
     <updated>2017-08-06T12:38:58.396Z</updated>
     
@@ -56,10 +56,10 @@
     
     </summary>
     
-      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://dubechen.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://dubechen.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
